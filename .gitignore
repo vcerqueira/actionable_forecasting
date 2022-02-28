@@ -1,0 +1,6 @@
+scripts/
+wave_buoy_data.csv
+__pycache__/
+*.pyc
+*.py[cod]
+.idea/
